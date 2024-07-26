@@ -3,6 +3,7 @@
 
 import random
 import time
+from colorama import Fore, Back
 
 # Teams
 Cowboys_name = "DALLAS COWBOYS"
